@@ -13,13 +13,13 @@ dependencies = [
     "scipy>=1.18.1",
     "seaborn>=0.13.2",
     "statsmodels>=0.15.0",
+    "ta-lib>=0.7.1",
     "yfinance>=1.7.0",
 ]
 
 [dependency-groups]
 dev = [
     "black>=26.5.1",
-    "flake8>=7.3.0",
     "ipykernel>=7.3.0",
     "isort>=9.0.1",
     "python-pptx>=1.0.2",
